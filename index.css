@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.left-part{
+	width: 20%;
+	height: 0px auto;
+	background-color: #eee;
+}
+.middle-part{
+	width: 50%;
+	margin-left: 20%;
+	margin-top: -1.1%;
+	background-color: red;
+}
+.right-part{
+	margin-left: 70%;
+	width: 30%;
+	background-color: green;
+	margin-top: -18px;
+}
